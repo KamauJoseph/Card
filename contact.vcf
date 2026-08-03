@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kamau;Joseph;;;
+FN:Joseph Kamau
+ORG:Reel Stories Productions
+TITLE:Founder & Director
+TEL;TYPE=CELL,VOICE:+971551843804
+EMAIL;TYPE=WORK,INTERNET:reelstoriesproductions.rsp@gmail.com
+item1.URL:https://canva.link/2o3lwgq6omy2jl5
+item1.X-ABLabel:Portfolio - Corporate
+item2.URL:https://canva.link/otftabne1fvmal3
+item2.X-ABLabel:Portfolio - F&B
+item3.URL:https://instagram.com/reel_stories_productions
+item3.X-ABLabel:Instagram
+ADR;TYPE=WORK:;;;Dubai, United Arab Emirates;;;
+NOTE:Reel Stories Productions - Dubai-based video production. Cinematic brand films, F&B content, event coverage.
+END:VCARD
